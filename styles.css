@@ -1,0 +1,29 @@
+.main-title{
+    font-family: 'Squada One', cursive;
+}
+.profile-img {
+    width: 150;
+}
+.intro{
+    background-color: #6E07F3;
+    color: white;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.intro-title{
+    font-family: 'Squada One', cursive;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.card-group{
+    margin-top: -5rem;
+}
+.list-title{
+    color:#6e07f3;
+}
+.gradient{
+    background: linear-gradient(300deg, #00bfff, #6E07F3, #ef8172);
+    animation: gradient-animation 18s ease infinite;
+}
